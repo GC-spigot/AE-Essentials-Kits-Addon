@@ -1,0 +1,12 @@
+name: AEEssentialsKitsAddon
+main: gc.aeaddon.esskits.Core
+website: n3.fyi
+version: 1.0.0
+author: "GC"
+depend:
+- Essentials
+- AdvancedEnchantments
+commands:
+  kit:
+    aliases: [ekit, ekits, kits, givekit, essentialskit]
+    description: "Kits"
